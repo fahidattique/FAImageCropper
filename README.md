@@ -13,6 +13,10 @@
 
 
 
+
+
+
+
 ## Installation
 
 *FAImageCropper requires iOS 8.0 or later.*
